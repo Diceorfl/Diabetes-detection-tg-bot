@@ -18,7 +18,7 @@
 **UBP**-Верхнее артериальное давление. Более подробная информация: https://beurer-belarus.by/reviews/poleznaya-informatsiya/verkhnee-i-nizhnee-davlenie-chto-eto/  
 **LBP**-Нижнее артериальное давление.  Более подробная информация: https://beurer-belarus.by/reviews/poleznaya-informatsiya/verkhnee-i-nizhnee-davlenie-chto-eto/  
 **BMI**-Индекс массы тела. Более подробная информация: https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%BC%D0%B0%D1%81%D1%81%D1%8B_%D1%82%D0%B5%D0%BB%D0%B0  
-**AGE**- Возраст пацианта.  
+**AGE**- Возраст пациента.  
 **Glycemia**- уровень гликемии натощак. Более подробная информация: https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F   
 **Gender**- пол пациента, где 1-мужской, 0-женский.  
 **Insulin**-уровень инсулина натощак. Более подробная информация: https://avklinik.ru/stati/endokrinolog/tri-glavnyix-analiza-na-diabet.html  
